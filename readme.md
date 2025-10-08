@@ -13,7 +13,3 @@ Et webprosjekt der du kan søke etter dine favorittkarakterer fra **Naruto** og 
 - **Backend:** javascript 
 - **API:** [let myAPI = "https://dattebayo-api.onrender.com/characters"]
 
-##  Installasjon og oppsett
-1. Klon prosjektet:
-   ```bash
-   git clone https://github.com/brukernavn/naruto-karaktersok.git
